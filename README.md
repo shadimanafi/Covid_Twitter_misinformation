@@ -143,7 +143,7 @@ O1: no time is reshared (Unpopular),
 O2: between 1 to 20 times it is retweeted (regular), 
 O3: more than 20 times it is propagated and can be a popular tweet.
 
-![graph](images/inout.PNG)
+![inout](images/inout.PNG)
 
 ### Setup Distributed PyTorch
 We need distributed Pytorch in 2 different parts of our implementation. First, we
@@ -169,7 +169,7 @@ data was imbalanced, therefore, one of these data (Data C) is oversampled to
 explore the impact among sizes and samples distribution over classes on model
 accuracy.
 
-![graph](images/result1.PNG)
+![result1](images/result1.PNG)
 
 ## Results and Analysis
 In this section we provide the results and analysis of features impact on tweets
@@ -184,7 +184,7 @@ Positive Rate).
 RQ: What is the effect of sentiment analysis, relevance score, weet_length ime_hour,
 user.verified on dissemination of the tweet?
 
-![graph](images/result2.PNG)
+![result2](images/result2.PNG)
 
 As we mentioned earlier, sentiment analysis, topic relevance, tweet length, time hour,
 hashtag count, friend count and user popularity are expected to impact the
@@ -204,7 +204,7 @@ based on the results of standard errors in Table 2. These standard errors are
 considerably low which means these samples could represent the entire tweets
 population.
 
-![graph](images/result3.PNG)
+![result3](images/result3.PNG)
 
 In terms of features impact on the popularity of such tweets, we found from logistic
 regression results that all features have significant effect on the dissemination of
@@ -217,7 +217,7 @@ on popular tweets. All three datasets have the same results as this dataset. How
 they are not listed here for the time and space constraints.
 
 
-![graph](images/result4.PNG)
+![result4](images/result4.PNG)
 
 ### Model Results and Analysis
 RQ: What is the effect of two different sizes of data on the accuracy of classification
@@ -237,7 +237,7 @@ though there are enough numbers of samples in all classes number, however the
 learning rate was constant and the number of epoch were not enough to learn from the
 dataset.
 
-![graph](images/result5.PNG)
+![result5](images/result5.PNG)
 
 To visualize how well our classifier is performing, the cross entropy loss, ROC curve are
 considered as shown in figure 4.a, 4.b, 4.c, and 4.d. For Dataset C, the loss is
@@ -256,7 +256,7 @@ results relatively to Dataset C since the training time was larger than that whe
 on Dataset C. therefore, with the large dataset and more epoches, it is expected to
 achieve higher accuracy.
 
-![graph](images/result6.PNG)
+![result6](images/result6.PNG)
 
 ### Future works
 First, we will need more feature engineering to be able to predict viral tweets because
