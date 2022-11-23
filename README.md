@@ -263,3 +263,24 @@ First, we will need more feature engineering to be able to predict viral tweets 
 they are rare in big data like looking for a needle in a haystack. Second, we need to
 consider other parameters for tweet dissemination such as the number of likes or
 quotes and so on.
+
+## References
+
+[1] How to use hashtags. (n.d.). Retrieved March 29, 2021, from
+https://help.twitter.com/en/using-twitter/how-to-use-hashtags#:~:text=People%20use%2
+0the%20hashtag%20symbol,included%20anywhere%20in%20a%20Tweet
+[2] Techopedia. (2013, December 13). What is a twitterstorm? - definition from
+Techopedia. Retrieved March 29, 2021, from
+https://www.techopedia.com/definition/29624/twitterstorm#:~:text=A%20Twitterstorm%2
+0is%20a%20sudden,news%20or%20a%20controversial%20debate.
+[3] Oremus, W. (2020, April 22). The absurd Reason 'Covid-19 is a Lie' ended up
+trending on Twitter. Retrieved March 29, 2021, from
+https://onezero.medium.com/the-absurd-reason-covid-19-is-a-lie-ended-up-trending-ontwitter-3943b978287c
+[4] Kamiński, M., Szymańska, C. and Nowak, J.K., 2021. Whose Tweets on COVID-19
+Gain the Most Attention: Celebrities, Political, or Scientific Authorities?.
+Cyberpsychology, Behavior, and Social Networking, 24(2), pp.123-128.
+[5] Banda, Juan M., et al. "A large-scale COVID-19 Twitter chatter dataset for open
+scientific research--an international collaboration." arXiv preprint arXiv:2004.03688
+(2020).
+[6] Blei D.M., Ng A.Y., Jordan M.I. Latent Dirichlet allocation. J. Mach. Learn. Res.
+2003;3:993–1022.
