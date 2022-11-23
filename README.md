@@ -97,7 +97,7 @@ four steps that should be passed through to deploy this system—data preprocess
 feature selection, machine learning model selection and implementation, and finally
 setup and train and test the model on parallelized clusters.
 
-![graph](images/graphbig.PNG)
+![graph](images/graaphbig.PNG)
 
 ### Data Preparing and Clearing
 For the purpose of extracting features of COVID19 tweets, the following steps
