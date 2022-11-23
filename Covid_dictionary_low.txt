@@ -1,0 +1,848 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardeftab720\ri0\partightenfactor0
+
+\f0\fs24 \cf0 asymptomatic covid-19\
+asymptomatic sars-cov-2 infection\
+coronavirus disease 2019\
+covid-19\
+covid-19 respiratory infection\
+sars-cov-2 acute respiratory disease\
+sars-cov-2 infection\
+coronavirus pneumonia\
+covid-19 pneumonia\
+novel covid-19-infected pneumonia\
+suspected covid-19\
+suspected sars-cov-2 infection\
+sars-cov-2 carrier\
+exposure to sars-cov-2\
+occupational exposure to communicable disease\
+occupational exposure to sars-cov-2\
+coronavirus test\
+coronavirus test negative\
+covid-19 antibody test\
+covid-19 elisa test\
+covid-19 molecular test\
+covid-19 pcr test\
+covid-19 rapid poc test\
+covid-19 serology test\
+covid-19 virus test\
+sars-cov-2 antibody test\
+sars-cov-2 elisa test\
+sars-cov-2 pcr test\
+sars-cov-2 serology test\
+sars-cov-2 test\
+covid-19 virus test false negative\
+sars-cov-2 test false negative\
+covid-19 antibody test negative\
+covid-19 elisa test negative\
+covid-19 molecular test negative\
+covid-19 pcr test negative\
+covid-19 rapid poc test negative\
+covid-19 serology test negative\
+covid-19 virus test negative\
+sars-cov-2 antibody test negative\
+sars-cov-2 elisa test negative\
+sars-cov-2 pcr test negative\
+sars-cov-2 serology test negative\
+sars-cov-2 test negative\
+covid-19 antibody test positive\
+covid-19 elisa test positive\
+covid-19 molecular test positive\
+covid-19 pcr test positive\
+covid-19 rapid poc test positive\
+covid-19 serology test positive\
+covid-19 virus test positive\
+sars-cov-2 antibody test positive\
+sars-cov-2 elisa test positive\
+sars-cov-2 pcr test positive\
+sars-cov-2 serology test positive\
+sars-cov-2 test positive\
+covid-19 prophylaxis\
+covid-19 treatment\
+covid-19 immunisation\
+covid-19 immunization\
+covid-19 vaccination\
+sars-cov-2 immunisation\
+sars-cov-2 immunization\
+sars-cov-2 vaccination\
+home isolation\
+home quarantine\
+quarantine\
+mis-c\
+multisystem inflammatory syndrome in children\
+paediatric inflammatory multisystem syndrome\
+paediatric multisystem inflammatory syndrome\
+pediatric inflammatory multisystem syndrome\
+pediatric multisystem inflammatory syndrome\
+2019 novel coronavirus infection\
+2019-ncov infection\
+covid-19 aggravated\
+covid-19 pneumonia aggravated\
+covid-19 pneumonitis\
+interstitial pneumonia due to covid-19\
+sars-cov-2 pneumonia\
+sars-cov-2 sepsis\
+sars-cov-2 viraemia\
+sars-cov-2 viremia\
+community-related covid-19 exposure\
+exposure to covid-19\
+occupational exposure to covid-19\
+travel-associated covid-19 exposure\
+covid-19 antigen test\
+covid-19 antigen test negative\
+covid-19 antigen test positive\
+covid-19 virus test false positive\
+sars-cov-2 igg antibody test\
+sars-cov-2 igm antibody test\
+sars-cov-2 molecular test\
+sars-cov-2 molecular test negative\
+sars-cov-2 molecular test positive\
+sars-cov-2 rapid antibody test\
+sars-cov-2 rapid diagnostic test\
+sars-cov-2 rapid poc test\
+sars-cov-2 rapid poc test negative\
+sars-cov-2 rapid poc test positive\
+sars-cov-2 rt-pcr test\
+sars-cov-2 test false positive\
+drug import channel interruption due to pandemic\
+drug shortage due to pandemic\
+drug supply chain interruption due to pandemic\
+lack of manufacturing materials due to pandemic\
+manufacturing facility shutdown due to pandemic\
+manufacturing laboratory analytical testing issue due to pandemic manpower disruption\
+manufacturing laboratory analytical testing not documented due to pandemic\
+manufacturing laboratory analytical testing not investigated due to pandemic\
+manufacturing laboratory analytical testing not performed due to pandemic\
+manufacturing production disrupted due to pandemic\
+manufacturing production permanently discontinued due to pandemic\
+manufacturing production temporarily discontinued due to pandemic\
+out of specification testing issue, not documented due to pandemic\
+out of specification testing issue, not investigated due to pandemic\
+out of specification testing issue, not performed due to pandemic\
+out of specification testing issue, not reported due to pandemic\
+product delay due to pandemic\
+product distribution delay due to pandemic\
+product shipment delay due to pandemic\
+product supply chain interruption due to pandemic\
+product unavailable due to pandemic\
+shortage of active pharmaceutical ingredient due to pandemic\
+shortage of inactive ingredient due to pandemic\
+shortage of manufacturing component due to pandemic\
+shortage of manufacturing materials due to pandemic\
+congenital covid-19\
+congenital sars-cov-2 infection\
+vaccine associated enhanced disease\
+vaccine enhanced disease\
+vaccine associated enhanced respiratory disease\
+laboratory confirmed sars-cov-2 infection without symptoms\
+covid-19 recurrent\
+long covid\
+post-acute covid-19 syndrome\
+post-covid syndrome\
+vaccine derived sars-cov-2 infection\
+covid-19 screening\
+sars-cov-2 iga antibody test\
+sars-cov-2 rna\
+sars-cov-2 viral load\
+sars-cov-2 rna decreased\
+sars-cov-2 viral load decreased\
+sars-cov-2 rna fluctuation\
+sars-cov-2 viral load fluctuation\
+sars-cov-2 rna increased\
+sars-cov-2 viral load increased\
+sars-cov-2 rna undetectable\
+sars-cov-2 viral load undetectable\
+acute aseptic arthritis\
+idiopathic acute peripheral facial nerve palsy\
+revaccination with different covid-19 vaccine\
+\
+remdesivir\
+escape clause\
+general escape clause\
+contact tracing\
+face mask\
+facemask\
+procedural mask\
+protective mask\
+surgical mask\
+medical mask\
+procedure mask\
+medical face mask\
+active immunisation\
+active immunization\
+hazmat suit\
+hazardous materials suit\
+hazardous material suit\
+decontamination suit\
+elimination of infections\
+clearing house\
+clearing house for medical equipment\
+covid-19 virus\
+2019-ncov\
+2019 novel coronavirus\
+sars-cov-2\
+virus responsible for covid-19\
+covid-19 coronavirus\
+wuhan seafood market pneumonia virus\
+novel coronavirus\
+severe acute respiratory syndrome coronavirus 2\
+coronavirus global response summit\
+budding\
+infectious disease elimination\
+disease elimination\
+multi-centre adaptive randomised clinical trial\
+ccm\
+intensive care medicine\
+critical care medicine\
+icm\
+participatory surveillance\
+sovereign nation\
+sovereign\
+sovereign state\
+protein domain\
+first-mover advantage\
+first mover advantage\
+fma\
+covid-19 coronavirus outbreak\
+coronavirus outbreak\
+covid-19 outbreak\
+coronavirus response investment initiative\
+crii\
+covid-19 response investment initiative\
+corona response investment initiative\
+viral shedding\
+asymptomatic individual\
+asymptomatic case\
+asymptomatic carrier\
+pandemic\
+global outbreak\
+face shield\
+face-shield\
+viable company\
+viable business\
+viable enterprise\
+intensive care\
+critical care\
+erp\
+european recovery programme\
+marshall plan\
+confinement\
+confinement measures\
+lockdown measures\
+restrictions on movement\
+aaa rating\
+triple-a credit rating\
+aaa\
+triple-a rating\
+trade flow\
+medical nutrition\
+on-label use\
+european recovery fund\
+recovery fund\
+zoonotic spillover\
+spillover\
+zoonotic pathogen spillover\
+hypercytokinemia\
+cytokine storm\
+cytokine storm syndrome\
+itu\
+icu\
+intensive care unit\
+intensive therapy unit\
+ccu\
+critical care unit\
+rbds\
+receptor-binding domain\
+rbd\
+lgf\
+cosme lgf\
+cosme loan guarantee facility\
+loan guarantee facility\
+sero-epidemiological population survey\
+population-based seroepidemiological investigation\
+single point of contact network\
+spoc network\
+large-volume parenteral\
+lvp solution\
+large volume parenteral solution\
+lvp\
+resuscitation drug\
+resuscitation medicine\
+sentinel physician\
+isolation\
+covid-19 advisory panel\
+advisory group on covid-19\
+advisory panel on covid-19\
+full-fledged screening mechanism\
+screening mechanism\
+foreign investment screening mechanism\
+fdi screening mechanism\
+foreign direct investment screening mechanism\
+coronavirus test\
+novel coronavirus test\
+strategic assets\
+strategic asset\
+critical asset\
+critical assets\
+team europe\
+common source epidemic\
+common source outbreak\
+epidemic\
+additional credit claim\
+acc\
+green lane\
+\'91green lane\'92 border crossing\
+temporary framework for state aid measures\
+temporary framework for state aid measures to support the economy in the current covid-19 outbreak\
+state aid temporary framework\
+temporary framework for state aid measures\
+physical distancing\
+spatial distancing\
+restrictions on social interaction\
+social distancing\
+community distancing\
+antigen test\
+rapid test\
+rdt\
+rapid diagnostic test\
+rapid antigen test\
+rapid antigen detection test\
+radt\
+rat\
+rapid antigen assay\
+epidemic curve\
+epi curve\
+unemployment reinsurance scheme\
+european unemployment benefit reinsurance scheme\
+european unemployment reinsurance scheme\
+respiratory tract infection\
+cluster\
+cluster of cases\
+health security committee\
+hsc\
+eu health security committee\
+panic purchases\
+panic buying\
+contact tracing application\
+contact-tracing app\
+tracing app\
+tracing apps\
+tracing application\
+world immunization week\
+world immunisation week\
+one-off\
+one-off measure\
+one-off fiscal measure\
+interleukin\
+il\
+interleukine\
+nasopharyngeal aspirate\
+clearing house for medical equipment (covid-19)\
+nasopharyngeal swab\
+flying medical team\
+respirator\
+particulate respirator\
+respirator mask\
+in-house device\
+unusual event clause\
+unusual event provision\
+analytical specificity\
+frontier-zone worker\
+border worker\
+frontier worker\
+cross-border worker\
+cross-border commuter\
+npt\
+poct\
+device for near-patient testing\
+point-of-care testing\
+bedside testing\
+near-patient testing\
+pandemic\
+2019-ncov acute respiratory disease\
+covid-19\
+coronavirus disease 2019\
+coronavirus disease\
+medical products\
+medical equipment\
+device for self-testing\
+self-test kit\
+biological membrane\
+self-test\
+foreign investment\
+membrane protein\
+community mechanism for the coordination of civil protection intervention in the event of emergencies\
+community mechanism to facilitate reinforced cooperation in civil protection assistance interventions\
+community mechanism for civil protection\
+civil protection framework\
+european union civil protection mechanism\
+european civil protection mechanism\
+union mechanism\
+ucpm\
+union civil protection mechanism\
+union mechanism\
+eu cpm\
+eu civil protection mechanism\
+community civil protection mechanism\
+ecpm\
+protective personal equipment\
+personal safety equipment\
+personal protective equipment\
+individual means of protection\
+personal protective device\
+individual protective equipment\
+ppe\
+personal protection equipment\
+protective equipment\
+body protection equipment\
+antibody test\
+false-positive\
+type i error\
+type 1 error\
+false positive\
+lay person\
+lay-user\
+lay user\
+medical grade oxygen\
+medical oxygen\
+covid-19 infection\
+infection with sars-cov-2\
+ivermectin\
+aiid\
+acquired immunity\
+specific immunity\
+acquired immunity against infectious disease\
+adaptive immunity\
+coronavirus emergency\
+secondary case\
+primary case\
+convalescent plasma\
+receptor\
+pandemic emergency purchase programme\
+pepp\
+civil confinement\
+index case\
+index patient\
+party zero\
+patient zero\
+quarantine\
+innovfin infectious disease finance facility\
+innovfin infectious diseases\
+innovfin infectious diseases finance facility\
+idff\
+frontier worker\
+coronavirus response investment initiative task force\
+crii task force\
+private investment\
+private sector investment\
+emergency response coordination centre\
+eer centre\
+european emergency response center\
+european emergency response centre\
+emergency response coordination center\
+ercc\
+erc\
+essential medicine\
+everyday preventive action\
+personal npi\
+personal protective measure\
+personal non-pharmaceutical intervention\
+isolation at home\
+home isolation\
+self-isolation\
+silent spreader\
+disposable particulate respirator\
+disposable respirator\
+disposable respirator mask\
+outbreak of a disease\
+disease outbreak\
+outbreak\
+reusable respirator\
+reusable particulate respirator\
+reusable respirator mask\
+european roadmap towards lifting coronavirus containment measures\
+joint european roadmap towards lifting covid-19 containment measures\
+european roadmap to lifting coronavirus containment measures\
+common eu exit strategy\
+super spreader\
+operations for fostering crisis response capacities\
+operation for fostering crisis response capacities in the context of the covid-19 outbreak\
+operations for fostering crisis response capacities in the context of the covid-19 outbreak\
+operation for fostering crisis response capacities\
+efg\
+equity facility for growth\
+cosme equity facility for growth\
+cosme efg\
+pre-clinical research\
+preclinical research\
+hemagglutinin-acetylesterase glycoprotein\
+haemagglutinin-esterase fusion glycoprotein\
+hef\
+passive immunisation\
+passive immunization\
+ifn\
+interferon\
+analytical sensitivity\
+coronavirus\
+corona virus\
+cov\
+epidemiological investigation\
+epidemiological study\
+epidemiological survey\
+cspp\
+corporate sector purchase programme\
+membrane glycoprotein\
+gavi\
+the vaccine alliance\
+gavi alliance\
+global alliance for vaccines and immunization\
+point-of-care diagnostic test\
+near-patient test\
+technologies\
+cleantech\
+clean technology\
+roadmap for recovery\
+joint roadmap for recovery\
+cytokine\
+direct investment\
+dfi\
+direct foreign investment\
+fdi\
+cross-border direct investment\
+foreign direct investment\
+international direct investment\
+containment measures\
+va-ecmo\
+veno-arterial ecmo\
+venoarterial extracorporeal membrane oxygenation\
+veno-arterial extracorporeal membrane oxygenation\
+venoarterial ecmo\
+worker in seasonal employment\
+seasonal worker\
+public investment\
+investment by public authorities\
+value chain\
+added value chain\
+value-added chain\
+strategic value chain\
+de-confinement\
+deconfinement\
+lifting restrictions on movement\
+lifting restrictive measures\
+lifting lockdown measures\
+disinfectant\
+virus particle\
+viral particle\
+virion\
+covid-19 communication support system\
+covid19 cmss\
+covid-19 clinical management support system\
+cmss\
+webconferencing covid-19 clinical management support system\
+covid19 clinical management support system\
+supply route\
+randomized trial\
+randomised clinical trial\
+randomized clinical trial\
+randomised trial\
+magistral formula\
+magistral preparation\
+medicine made up according to prescription\
+strategic preparedness and response plan\
+pharmacy open to the public\
+dispensing chemist\
+community pharmacy\
+dispensing pharmacy\
+retail pharmacy\
+covid-19 data portal\
+covid-19 portal\
+hospital pharmacy\
+cross-contamination\
+cross contamination\
+donor conference\
+donors conference\
+pledging conference\
+donors' conference\
+pledging event\
+pledging summit\
+covid-19 outbreak\
+coronavirus outbreak\
+coronavirus pandemic\
+outbreak\
+global coronavirus outbreak\
+covid-19 pandemic\
+false negative result\
+false-negative\
+false negative\
+type 2 error\
+type ii error\
+muscle relaxant\
+anaesthetic agent\
+anaesthetic\
+anesthetic anesthetics anaesthetics\
+bilateral interstitial pneumonia\
+eravscorona action plan\
+diagnostic specificity\
+european covid-19 data platform\
+acute interstitial pneumonia\
+spike protein\
+viral spike protein\
+s-protein\
+spike glycoprotein\
+global rules-based international order\
+rules-based international order\
+diagnostic sensitivity\
+capsomere\
+medical equipment\
+pharmaceutical development and research\
+pharmaceutical research\
+visor\
+pharmaceutical development and research\
+pharmaceutical development\
+drug development\
+symptom screening\
+infrared thermal screening\
+thermal scanning\
+screening\
+medical screening\
+health screening\
+eu executive steering group on shortages of medicines caused by major events\
+executive steering group\
+joint public procurement\
+grouped procurement\
+joint procurement\
+community mitigation measure\
+non-pharmaceutical intervention\
+non-pharmaceutical public health measure\
+nonpharmaceutical intervention\
+mitigation measure\
+community measures\
+npi\
+npis\
+community mitigation\
+contact\
+cross-frontier worker\
+cross-border worker\
+cross-border commuter\
+recovery\
+eu ipcr arrangements\
+ipcr arrangements\
+eu integrated political crisis response (ipcr) arrangements\
+eu emergency and crisis coordination arrangements\
+cca\
+co-ordination arrangement\
+eu integrated political crisis response arrangements\
+ipcr\
+crisis coordination arrangements\
+integrated political crisis response mechanism\
+n protein\
+nucleocapsid protein\
+open data\
+open research data\
+envelope glycoprotein\
+pulmonology\
+pneumology\
+respiratory medicine\
+multi-centre study\
+multi-centre trial\
+multicenter trial\
+multicenter study\
+multi-centre clinical trial\
+first responder\
+favipiravir\
+severe acute respiratory syndrome\
+sars\
+oxygen therapy\
+severe acute respiratory syndrome-related coronavirus\
+sars-associated coronavirus\
+mers\
+middle east respiratory syndrome\
+disease eradication\
+infectious disease eradication\
+eradication\
+containment\
+health system resilience\
+resilience\
+eyewear\
+protective eyewear\
+eyewear protection\
+patient examination glove\
+exploration glove\
+medical glove for single use\
+examination glove\
+executive capacity\
+lockdown\
+lock down\
+coronavirus response team\
+corona response team\
+european corona response team\
+european coronavirus response team\
+infodemic\
+information epidemic\
+asymptomatic case\
+asymptomatic patient\
+asymptomatic subject\
+asymptomatic individual\
+suppression\
+short-time working arrangement\
+short-time working scheme\
+short-time scheme\
+short time working scheme\
+short time working arrangement\
+short-time work scheme\
+stwa\
+short-time working arrangements\
+vav ecmo\
+veno-arterial-venous ecmo\
+veno-arterial-venous extracorporeal membrane oxygenation\
+crii+\
+coronavirus response investment initiative plus\
+vv-ecmo\
+vv-ecmo\
+venovenous extracorporeal membrane oxygenation\
+venovenous ecmo\
+veno-venous extracorporeal membrane oxygenation\
+extracorporeal membrane oxygenation\
+ecmo\
+extra corporeal membrane oxygenation\
+ecls\
+extracorporeal oxygenation\
+extracorporeal life support\
+middle-east respiratory syndrome coronavirus\
+middle east respiratory syndrome coronavirus\
+novel coronavirus\
+ritonavir\
+incubation time\
+incubation period\
+immunisation\
+de-escalation strategy\
+de-escalating measures\
+exit strategy\
+eu+ area\
+community transmission\
+serological test\
+triage station\
+screening point\
+covid-19/corona information group \'96 borders\
+personal protective material\
+eu solidarity for health initiative\
+public health crisis\
+covid-19 crisis\
+coronavirus crisis\
+sure instrument\
+sure\
+european instrument for temporary support to mitigate unemployment risks in an emergency\
+support to mitigate unemployment risks in an emergency\
+triage\
+adaptive trial\
+adaptive design clinical trial\
+adaptive design clinical study\
+adaptive clinical trial\
+probable case\
+positive control\
+control material\
+positive control chemical\
+positive control material testing\
+test control material\
+positive control reagent\
+positive control material\
+disease control\
+chloroquine\
+major natural disaster\
+capsid\
+protein coat\
+pmma\
+polymethyl methacrylate\
+plexiglass\
+poly(methyl methacrylate)\
+public health event of international concern\
+public health emergency of international concern\
+pheic\
+alternative medicine\
+quarantine\
+ventilator\
+respirator\
+mechanical ventilator\
+respiratory ventilator\
+lung ventilator\
+credit holiday\
+payment holiday\
+repayment holiday\
+mortgage holiday\
+temporary restructuring support\
+i-spoc system\
+industry single point of contact system\
+off-label medicine\
+off-label use\
+jpa\
+joint procurement agreement to procure medical countermeasures\
+joint procurement agreement\
+instrument for emergency support within the union\
+ies\
+esi\
+emergency support instrument\
+instrument for emergency support\
+instrument for emergency support within the eu\
+instrument for emergency assistance within the union\
+emergency assistance instrument\
+pcr machine time\
+rna extraction machine time\
+resceu stockpile\
+community immunity\
+herd immunity\
+infection control\
+api\
+active pharmaceutical ingredient\
+drug substance\
+active substance\
+pandemic crisis support safeguard\
+pandemic crisis support\
+alcohol-based hand sanitiser\
+hand sanitizing gel\
+hydroalcoholic gel\
+alcohol-based hand sanitizer\
+hand sanitiser\
+alcohol-based hand rub\
+hand sanitizer\
+hand sanitising gel\
+hydro-alcoholic gel\
+hand disinfectant\
+hydroxychloroquine\
+septic shock\
+<i>de minimis</i> regulation\
+interstitium\
+interstitial space\
+flattening\
+flattening the curve\
+to flat the curve\
+flattening of a curve\
+threat to public health\
+public health threat\
+short-time working\
+partial redundancy\
+work-sharing unemployment\
+partial unemployment\
+short-time work\
+seroconversion\
+high risk potential contact\
+medical stockpiling\
+stockpiling of medical countermeasures\
+disinfection\
+medical countermeasure\
+investigational therapeutic agent\
+investigational therapeutic\
+imported case\
+major public health emergency\
+mah\
+marketing authorisation holder\
+regional natural disaster\
+early warning and response system for the prevention and control of communicable diseases\
+early warning and response system for communicable diseases\
+ewrs\
+\pard\pardeftab720\ri0\partightenfactor0
+\cf0 early warning and response system}

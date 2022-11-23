@@ -1,0 +1,88 @@
+---
+title: "test"
+author: "Nada Alalyani and Shadi"
+date: "4/30/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+data6=read.csv("/Users/Nada/Downloads/originalData_v4_small_SMOTE.csv")
+str(data6)
+```
+
+```{r}
+sd(data6$Sentiment_score)
+sd(data6$relevance_score)
+sd(data6$tweet_length)
+sd(data6$time_hour)
+sd(data6$hashtag_count)
+sd(data6$friends_counts)
+sd(data6$user_verified)
+```
+
+```{r}
+sd(data6$Sentiment_score)/mean(data6$Sentiment_score)
+sd(data6$relevance_score)/mean(data6$relevance_score)
+sd(data6$tweet_length)/mean(data6$tweet_length)
+sd(data6$time_hour)/mean(data6$time_hour)
+sd(data6$hashtag_count)/mean(data6$hashtag_count)
+sd(data6$friends_counts)/mean(data6$friends_counts)
+```
+
+```{r}
+data6$relevance_score= as.numeric(data6$relevance_score)
+data6$tweet_length= as.numeric(data6$tweet_length)
+data6$time_hour= as.numeric(data6$time_hour)
+data6$hashtag_count= as.numeric(data6$hashtag_count)
+data6$friends_counts= as.numeric(data6$friends_counts)
+data6$user_verified= as.numeric(data6$user_verified)
+data6$retweet_class= as.factor(data6$retweet_class)
+
+```
+
+
+```{r}
+summary(data4)
+```
+
+```{r}
+par(mfrow=c(2,4))
+hist(data6$Sentiment_score,main="Sentiment Score", xlab="Sentiment_score", ylab="Frequency")
+hist(data6$relevance_score, main="Relevance Score", xlab="Relevance_score", ylab="Frequency")
+hist(data6$tweet_length, main="Tweet Length", xlab="Tweet_length", ylab="Frequency")
+hist(data6$time_hour, main="Time Hour", xlab="Time_hour", ylab="Frequency")
+hist(data6$hashtag_count, main="Hashtag Count", xlab="Hashtag_count", ylab="Frequency")
+hist(data6$friends_counts,main="Friends Count", xlab="Friends_counts", ylab="Frequency")
+hist(data6$user_verified, main="User Verified", xlab="User_verified", ylab="Frequency")
+```
+
+```{r}
+library(np)
+library(sm)
+library(mblm)
+library(dplyr)
+require(nnet)
+data6$retweet_class2 <- relevel(data6$retweet_class, ref = '0')
+model6.fit = multinom(data6$retweet_class ~ data6$Sentiment_score + data6$relevance_score + data6$tweet_length + data6$time_hour + data6$hashtag_count + data6$friends_counts + data6$user_verified,data=data6, model=TRUE)
+summary(model6.fit)
+```
+
+```{r}
+exp(coef(model6.fit))
+```
+
+```{r}
+z6 <- summary(model6.fit)$coefficients/summary(model6.fit)$standard.errors
+z6
+```
+
+```{r}
+p6 <- (1 - pnorm(abs(z6), 0, 1)) * 2
+p6
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
