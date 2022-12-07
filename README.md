@@ -1,4 +1,4 @@
-# Covid_Twitter_misinformation
+# Covid Twitter Misinformation
 Social media plays an important role to inform people from their surrounding
 environment. Twitter is a very well-known media. It enables people to use hashtag
 symbols (#) to link to all of the other tweets that are talking about the same topic. The
